@@ -23,3 +23,5 @@ ii
 *.tar*
 base58
 tests/*.trs
+/.swiftpm
+/.build
